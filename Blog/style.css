@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Flor";
+    src: url("font/FlorDeRuina-Flor.woff2");
+}
+@font-face {
+    font-family: "Semilla";
+    src:url("font/FlorDeRuina-Semilla.woff2");
+}
+@font-face {
+    font-family: "COLR";
+    src:url("font/bianzhidai_COLR-RGB.woff");
+}
+@font-face {
+    font-family: "Base";
+    src:url("font/bianzhidai_COLR-grid.woff");
+}
+@font-face {
+    font-family: "Base";
+    src:url("font/.woff");
+}
+
+
+/* Text */
+h1{
+    font-family: "Flor";
+    font-size: 80px;
+}
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    background-color: antiquewhite;
+    
+}
+
+a{
+  font-family: "Semilla";
+  text-decoration: none;  
+  font-size: 30px;
+  color: black;
+}
+
+ul{
+    height: 100px;
+    width: 300px;
+    margin-top: 5%;
+    margin-left: 5%;
+    list-style-type: none;
+    
+}
